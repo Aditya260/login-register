@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Smt 6\\Mobile Development\\UTS_PakRosyid\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

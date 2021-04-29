@@ -1,0 +1,10 @@
+com/wildan/febriapps/BuildConfig.java
+ com.wildan.febriapps.BuildConfig
+com/wildan/febriapps/databinding/ActivityRegisterBinding.java
+ com.wildan.febriapps.databinding.ActivityRegisterBinding
+com/wildan/febriapps/databinding/ActivityLoginBinding.java
+ com.wildan.febriapps.databinding.ActivityLoginBinding
+com/wildan/febriapps/databinding/ActivityWelcomeBinding.java
+ com.wildan.febriapps.databinding.ActivityWelcomeBinding
+com/wildan/febriapps/databinding/ActivityMainBinding.java
+ com.wildan.febriapps.databinding.ActivityMainBinding
